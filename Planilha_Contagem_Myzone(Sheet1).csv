@@ -1,0 +1,22 @@
+Seção,Funcionalidade,Dias (mín),Dias (máx),Custo (mín),Custo (máx),Tipo PF,Complexidade,PF Bruto,"PF Ajustado (x1,05)",Valor por PF (R$),Custo Estimado (PF)
+Autenticação do Usuário,Cadastro de usuário,1,1.5,840,1920,EE,Média,4,4.2,950,3990
+Autenticação do Usuário,Login e Logout,1,1.5,560,1440,EE,Média,4,4.2,950,3990
+Autenticação do Usuário,Recuperação de senha,2,2.5,1120,2400,EE,Média,4,4.2,950,3990
+Gestão de Perfil,Editar nome e foto,2,2.5,1120,2400,EE,Baixa,3,3.15,950,2992.5
+Gestão de Perfil,Excluir conta,1.5,2,840,1920,EE,Baixa,3,3.15,950,2992.5
+Categorias,Criar categorias personalizadas,2,2,1120,2400,EE,Média,4,4.2,950,3990
+Categorias,Editar e excluir categorias,1.5,2,840,1920,EE,Baixa,3,3.15,950,2992.5
+CRUD Acervo Pessoal,Criar catálogo de mídias,2,2,1120,1920,ALI,Média,10,10.5,950,9975
+CRUD Acervo Pessoal,Adicionar itens ao catálogo,2,2,1120,1920,ALI,Média,10,10.5,950,9975
+CRUD Acervo Pessoal,Editar e excluir itens,2,2,1120,1920,EE,Baixa,3,3.15,950,2992.5
+Interação com Mídias,Adicionar avaliações,2,2,1120,1920,EE,Média,4,4.2,950,3990
+Interação com Mídias,Adicionar comentários,2,2,1120,1920,EE,Média,4,4.2,950,3990
+Interface e UX,Interface responsiva,3,3.5,1680,3360,EE,Média,4,4.2,950,3990
+Interface e UX,Filtro e busca,2.5,3,1400,2880,CE,Média,4,4.2,950,3990
+Configurações,Alteração de senha,1,1,560,960,EE,Média,4,4.2,950,3990
+Configurações,Preferências de privacidade,2,2,1120,1920,EE,Média,4,4.2,950,3990
+Recursos Sociais,Compartilhamento de acervos,3,3.5,2160,3360,ALI,Média,10,10.5,950,9975
+Recursos Sociais,Seguir usuários e ver catálogos,3,3.5,2160,3360,ALI,Média,10,10.5,950,9975
+Relatórios,Gráficos por categoria,3,3.5,2160,3360,SE,Alta,7,7.35,950,6982.5
+Relatórios,Histórico de avaliações,3,3.5,2160,3360,EE,Média,4,4.2,950,3990
+Totais,Total:,,,,,,,103,,,102742.5
