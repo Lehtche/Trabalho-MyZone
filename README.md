@@ -4,14 +4,16 @@
 
 Este projeto foi desenvolvido pelo Grupo 09 no tema Gestão e Visualização de Dados em Interfaces.
 
-Membros do Grupo
-Líder: Letícia Delmilio Soares
-Erick Ferreira dos Santos
-Maria Luiza Ricardo Fernandes
-Marcos Vinicius Nunes
-Mariana Cardoso Honorato
-Fabiana Souza de Paula
-Introdução
+Membros do Grupo               \
+Líder: Letícia Delmilio Soares \
+Erick Ferreira dos Santos      \
+Maria Luiza Ricardo Fernandes  \
+Marcos Vinicius Nunes          \
+Mariana Cardoso Honorato       \
+Fabiana Souza de Paula         
+
+
+Introdução\
 Você já quis organizar todos os seus filmes, séries, músicas e livros em um só lugar? Apresentamos o MyZone, seu espaço pessoal para catalogar, avaliar e redescobrir suas mídias favoritas!
 
 O Problema
@@ -20,15 +22,19 @@ Com tantas plataformas e mídias espalhadas por aí, fica difícil manter o cont
 Linha do Tempo do Projeto
 Abaixo, detalhamos a evolução do trabalho do nosso grupo ao longo do projeto:
 
-Ideia e Protótipo de Baixa Fidelidade: Chegamos à ideia de um sistema de gestão e visualização de acervos pessoais de mídia.
-Backlog: Definimos as principais funcionalidades e organizamos um quadro Kanban para o controle das tarefas.
-Pontos de Função e Custos: Realizamos a análise de pontos de função e estimamos os custos do projeto através de planilhas detalhadas.
-Dinâmica "Continuar ou Parar": Utilizamos uma dinâmica no Trello para avaliar o progresso e tomar decisões sobre o andamento do projeto.
-Protótipo de Alta Fidelidade (Figma): Desenvolvemos um protótipo detalhado no Figma, que demonstra o funcionamento final do site.
+### Ideia e Protótipo de Baixa Fidelidade:                                                        
+Chegamos à ideia de um sistema de gestão e visualização de acervos pessoais de mídia.             
+### Backlog: 
+Definimos as principais funcionalidades e organizamos um quadro Kanban para o controle das tarefas.                             
+### Pontos de Função e Custos:  
+Realizamos a análise de pontos de função e estimamos os custos do projeto através de planilhas detalhadas.    
+### Dinâmica "Começar,Continuar ou Parar": 
+Utilizamos uma dinâmica no Trello para avaliar o progresso e tomar decisões sobre o andamento do projeto. \
+Protótipo de Alta Fidelidade (Figma): Desenvolvemos um protótipo detalhado no Figma, que demonstra o funcionamento final do site.        \
 Demonstração
 O MyZone é incrivelmente fácil de usar! O processo de cadastro e login é simples e rápido. Em poucos passos, você já estará pronto para criar seus acervos e começar a organizar suas mídias.
 
-Funcionalidades Principais
+ ### Funcionalidades Principais
 O coração do MyZone está nas suas categorias. Você pode:
 
 Criar, editar e excluir mídias do seu acervo.
@@ -44,7 +50,5 @@ Na Home, você pode visualizar as últimas mídias que seus amigos adicionaram, 
 Como Começar
 Para explorar o MyZone, siga estas etapas:
 
-Clone este repositório.
-[Instruções de instalação - Adicionar aqui, se houver]
-[Instruções de como rodar o projeto - Adicionar aqui, se houver]
+
 Esperamos que você aproveite o MyZone para organizar e redescobrir suas mídias favoritas! Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato com o grupo.
