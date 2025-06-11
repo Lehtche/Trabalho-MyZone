@@ -5,7 +5,7 @@
 Este projeto foi desenvolvido pelo Grupo 09 no tema Gestão e Visualização de Dados em Interfaces.
 
 Membros do Grupo
-Líder: Letícia Delmiro Soares
+Líder: Letícia Delmilio Soares
 Erick Ferreira dos Santos
 Maria Luiza Ricardo Fernandes
 Marcos Vinicius Nunes
